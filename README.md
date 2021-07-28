@@ -4,7 +4,7 @@ Once all steps below are done, launch the program through the main in src/Flight
 
 Before, complete the following files with your information :
 
-**1. Site.java Ligne 55
+**1. Site.java Ligne 55**
 
 Enter logins in the form
             
@@ -15,7 +15,7 @@ You need first to create a new calendar for the flights to be stored in, via Goo
 Then you need to obtain the CALENDAR_ID : https://yabdab.zendesk.com/hc/en-us/articles/205945926-Find-Google-Calendar-ID
 Put the ID between the "" of the file explained below
 
-**2. FlightCalendar.java Ligne 39
+**2. FlightCalendar.java Ligne 39**
 
 private static final String CALENDAR_ID = "";
 
