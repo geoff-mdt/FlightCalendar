@@ -8,7 +8,7 @@ Before, complete the following files with your information :
 
 Enter logins in the form
             
-	    login.sendKeys(""); //enter login   ex: "gmordelet"
+	    	login.sendKeys(""); //enter login   ex: "gmordelet"
             pass.sendKeys(""); //enter password ex: "password"
 	
 You need first to create a new calendar for the flights to be stored in, via Google Calendar.
@@ -17,11 +17,12 @@ Put the ID between the "" of the file explained below
 
 **2. FlightCalendar.java Ligne 39**
 
-private static final String CALENDAR_ID = "";
+		private static final String CALENDAR_ID = "";
 
 You also need to allow your application to access this api. For that you need an authentication with OAuth 2.0
 
-**3.**
+**3. Credentials**
+
 In order to obtain the file credentials.json to place in src/ visit : https://cloud.google.com/docs/authentication/getting-started?hl=fr
 It explains the procedure : you have to create an account for Google Developper, a project and authorize it
 Place the JSON file in src/
