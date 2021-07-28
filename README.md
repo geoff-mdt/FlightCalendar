@@ -26,6 +26,6 @@ In order to obtain the file credentials.json to place in src/ visit : https://cl
 It explains the procedure : you have to create an account for Google Developper, a project and authorize it
 Place the JSON file in src/
 
-**It should be good now !
+**It should be good now !**
 
 For any issues contact me through gitHub (or Facebook)
