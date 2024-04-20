@@ -8,7 +8,7 @@ Before, complete the following files with your information :
 
 Enter logins in the form
             
-	    	login.sendKeys(""); //enter login   ex: "gmordelet"
+	    	login.sendKeys(""); //enter login   ex: "login"
             pass.sendKeys(""); //enter password ex: "password"
 	
 You need first to create a new calendar for the flights to be stored in, via Google Calendar.
